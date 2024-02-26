@@ -1,6 +1,6 @@
 # Real-Time DHT Sensor Monitoring with WebSocket Integration
 
-![Thumbnail](thumbnail.jpg)
+![Thumbnail](http://img.youtube.com/vi/gOhSKx6GzaU/sddefault.jpg)
 
 This project demonstrates real-time monitoring of DHT sensor data using an ESP32 microcontroller, WebSocket communication, and Web technologies.
 
@@ -28,10 +28,10 @@ This repository contains the Arduino code for ESP32 microcontroller to read temp
 - Additionally, the WebSocket connection allows for real-time updates without refreshing the page.
 
 ## Video Tutorial on Yarana IoT Guru YouTube Channel
-For a comprehensive step-by-step tutorial on setting up this project, check out the video on [Yarana IoT Guru YouTube channel](link_to_youtube_video).
+For a comprehensive step-by-step tutorial on setting up this project, check out the video on [Yarana IoT Guru YouTube channel](https://youtu.be/gOhSKx6GzaU).
 
 ## Contributors
-- Your Name (@YourGitHubUsername)
+- Your Name (@YaranaIotGuru)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
