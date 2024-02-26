@@ -31,7 +31,7 @@ This repository contains the Arduino code for ESP32 microcontroller to read temp
 For a comprehensive step-by-step tutorial on setting up this project, check out the video on [Yarana IoT Guru YouTube channel](https://youtu.be/gOhSKx6GzaU).
 
 ## Contributors
-- Your Name (@YaranaIotGuru)
+- Name :  (@YaranaIotGuru)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
